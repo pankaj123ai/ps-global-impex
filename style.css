@@ -261,9 +261,11 @@ background:white;
 
 .secondary{
 
-background:#25D366;
+background:white;
 
-color:white;
+color:#0f5132;
+
+border:2px solid #0f5132;
 
 }
 
