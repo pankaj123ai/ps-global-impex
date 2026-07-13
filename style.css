@@ -1299,3 +1299,33 @@ margin:12px 0;
 }
 
 }
+/* Landscape Mobile Fix */
+@media (max-height: 500px) and (orientation: landscape) {
+
+header{
+    position: relative;
+}
+
+.navbar{
+    padding: 8px 20px;
+}
+
+.logo img{
+    width: 35px;
+    height: 35px;
+}
+
+.logo h2{
+    font-size: 20px;
+}
+
+.logo span{
+    font-size: 11px;
+}
+
+.hero{
+    min-height: 100vh;
+    padding: 20px;
+}
+
+}
