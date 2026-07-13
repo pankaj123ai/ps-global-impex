@@ -289,3 +289,17 @@ section{
 
 
   }
+.logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+.logo img{
+    width:45px;
+    height:45px;
+}
+
+.logo h2{
+    margin:0;
+    }
