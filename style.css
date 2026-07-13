@@ -159,13 +159,13 @@ min-height:90vh;
 
 display:flex;
 
-justify-content:center;
+justify-content:flex-start;
 
 align-items:center;
 
-text-align:center;
+text-align:left;
 
-padding:40px;
+padding:0 8%;
 
 }
 
